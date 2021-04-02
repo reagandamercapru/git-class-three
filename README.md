@@ -7,4 +7,3 @@ three
 
 four
 five
-six
