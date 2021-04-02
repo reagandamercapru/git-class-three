@@ -13,8 +13,3 @@ six
 Abc
 Def
 ghi
-
-vet
-ves
-msc
-
